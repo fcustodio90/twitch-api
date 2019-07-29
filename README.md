@@ -1,6 +1,8 @@
 # twitch-api
 A fake server running a Restful API
 
+Use it in conjunction with Twitch client => https://github.com/fcustodio90/twitch-client
+
 For documentation purposes read https://github.com/typicode/json-server
 
 ## Installation
